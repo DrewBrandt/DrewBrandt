@@ -1,6 +1,6 @@
 ## Hello there! 
 
-I am a computer science major studying at the University of Maryland. I have a passion for machine learning and aerospace engineering (my plan is to earn a master’s in AE after completion of my CS degree). I do not commit ot many public repositories, but you can see the work I've done on UMD's Terrapin Rocket Team (TRT) pinned below.
+I am a computer science major studying at the University of Maryland. I have a passion for machine learning and aerospace engineering (my plan is to earn a master’s in AE after completion of my CS degree). I do not commit to many public repositories, but you can see the work I've done on UMD's Terrapin Rocket Team (TRT) pinned below.
 
 I have basic knowledge of C#, C++, and Python. I am on TRT (See the bottom left-hand side) and hope to contribute substantially to their Avionics and Space Shot sub teams. 
 
