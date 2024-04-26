@@ -16,3 +16,4 @@ The first pinned repo is the SRAD Avionics one from TRT. You can read a personal
 
 Next is a library I wrote for use in TRT, but which is applicable to any Arduino system. Read about why I included it on my profile [here]()
 
+Finally, the last pinned repo is a personal project that I worked on for more than a year designed to run theatre shows in small community theatres. [here]() is some more information about it.
