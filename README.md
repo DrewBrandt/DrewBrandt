@@ -12,7 +12,7 @@ DrewBrandt/DrewBrandt is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-The first pinned repo is the SRAD Avionics one from TRT. You can read a personal paragraph about it [here]().
+The first pinned repo is the SRAD Avionics one from TRT. You can read a personal paragraph about it [here](https://github.com/DrewBrandt/DrewBrandt/blob/main/About%20SRAD_Avionics.md).
 
 Next is a library I wrote for use in TRT, but which is applicable to any Arduino system. Read about why I included it on my profile [here]()
 
