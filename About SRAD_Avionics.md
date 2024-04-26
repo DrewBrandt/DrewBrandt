@@ -1,0 +1,9 @@
+# [SRAD_Avionics](https://github.com/Terrapin-Rocket-Team/SRAD_Avionics)
+
+This repository is one that I have contributed substantially to over the course of the Spring 2024 semester. Along with [Varun Unnithan](@varun-un), I made significant overhauls to the structure of the code run by the flight computer, better implementing the OOP benefits that C++ provides over C. I am very proud of the work I did on it, improving reliability, portability, and readability, and believe it to be a good indicator of my level of knowledge about C++. Specific areas that I worked on include the `State` class, the Sensor interfaces/implementations, and overall software architecture. 
+
+Note that I did not do any work on the Live Video or Radio systems, almost all of which was researched and implemented by [Joseph Hauerstein](@jhauerst).
+
+I also spent a significant amount of time writing documentation for nearly every part of the repository. Found on that repo's [wiki page](https://github.com/Terrapin-Rocket-Team/SRAD_Avionics/wiki) is a nearly complete string of documents designed to both document our code and teach new members that may have never worked with Arduino before how to set up their coding environment. The plan is for new members in the fall semester to be sent there and given a small bogus assignment designed to help them walk through how to code for our systems. This will help them become more capable than past new members, faster. I have also contributed heavily to the design and documentation of this assignment, found [~~here~~](). (not ready yet)
+
+Over the summer, I, along with representatives from the other coding-related sub teams, will overhaul our codebase to use a common `State` library and Kalman filter system. This is expected to drastically cut down on development time so that the teams can focus more on their specialties without worrying about the underlying code.
