@@ -18,4 +18,4 @@ The first pinned repo is the SRAD Avionics one from TRT. You can read a personal
 
 Next is a library I wrote for use in TRT, but which is applicable to any Arduino system. Read about why I included it on my profile [here](https://github.com/DrewBrandt/DrewBrandt/blob/main/About%20BlinkBuzz.md)
 
-Finally, the last pinned repo is a personal project that I worked on for more than a year designed to run theatre shows in small community theatres. [here](https://github.com/DrewBrandt/DrewBrandt/blob/main/About%20DeLight.md) is some more information about it.
+Finally, the last repo is a personal project that I worked on for more than a year designed to run theatre shows in small community theatres. It was not done on my personal account so instead can be found [here](https://github.com/amSnoop/DeLight). [here](https://github.com/DrewBrandt/DrewBrandt/blob/main/About%20DeLight.md) is some more information about it.
